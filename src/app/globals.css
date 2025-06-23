@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+.text-red {
+  color: red;
+}
+
+#navbar{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  background-color: beige;
+}
+
+#nav-menu {
+  display: flex;
+  gap: 10px;
+  list-style: none;
+}
