@@ -28,6 +28,7 @@ function SignupPage(){
                 // 2. Jika belum ada maka tambahkan
                 setData([...data, newUsername]);
                 inUsername.current.value = ""; 
+                
             }
             
         }
